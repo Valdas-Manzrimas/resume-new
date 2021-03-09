@@ -1,0 +1,151 @@
+:root {
+  --borders: rgb(9, 39, 46);
+}
+
+html {
+  width: 100%;
+  margin: 0;
+}
+
+body {
+  overflow: scroll;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.App {
+  display: flex;
+  max-width: 100%;
+
+  .left-section {
+    flex: 1.2;
+    min-width: 253px;
+    width: 100%;
+    background-color: var(--borders);
+    color: white;
+
+    &__img-div {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+
+      img {
+        margin: 30px auto 0 auto;
+        border-radius: 80%;
+        border: 2px solid lightgray;
+        box-shadow: -1px 4px 67px -8px rgba(213, 241, 245, 0.52);
+      }
+    }
+
+    h3 {
+      text-align: center;
+    }
+    .about-info-container {
+      margin: 0;
+    }
+    .about-info-box {
+      margin: 20px;
+
+      &__personal-info {
+        display: flex;
+        justify-content: space-between;
+        padding: 0 1.4rem;
+      }
+
+      p {
+        display: flex;
+        align-items: center;
+      }
+
+      img {
+        margin-right: 5px;
+      }
+
+      .my-town {
+        margin-left: 23px;
+      }
+    }
+  }
+
+  .right-section {
+    flex: 4;
+
+    .header {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+
+      &__top {
+        text-align: right;
+
+        select {
+          width: 100px;
+        }
+      }
+
+      &__content {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        h1 {
+          font-family: 'Cormorant Garamond', serif;
+          font-size: 50px;
+          font-weight: 200;
+          margin: 0;
+          text-transform: uppercase;
+        }
+
+        &__title-line {
+          display: flex;
+          align-items: center;
+          min-width: 90%;
+
+          &__line {
+            width: 100%;
+            height: 7px;
+            background-color: var(--borders);
+          }
+        }
+      }
+    }
+
+    .app__container {
+      &__education {
+        display: inline-block;
+        width: 90%;
+      }
+
+      &__education,
+      &__experience,
+      &__skills-div {
+        margin: 30px 0 0 40px;
+      }
+
+      h3 {
+        margin-bottom: 5px;
+      }
+
+      &__skills-div {
+        display: flex;
+        justify-content: space-between;
+
+        &__personal-skills {
+          width: 33%;
+        }
+        &__technical-skills {
+          width: 66%;
+
+          .skills-div {
+            display: flex;
+
+            .column {
+              margin-right: 100px;
+            }
+          }
+        }
+      }
+    }
+  }
+}

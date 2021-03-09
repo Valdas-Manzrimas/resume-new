@@ -1,0 +1,172 @@
+{
+  "en": {
+    "header": {
+      "title": "Frontend developer"
+    },
+    "links": "Links",
+    "aboutMe": {
+      "title": "About Me",
+      "content": "Hello, I am always ready to learn and perfect myself. Couple of years I was living in the monastery where I spend my time for self-knowledge and personality growth. In there I was learning self, mind control, project managment and also I gave lectures on self-education topics. After years of searching for myself, I discovered myself in the IT realm and have been delving into it for over a year. Currently I am working as senior IT service desk analyst and also studying the Front-end development."
+    },
+    "education": {
+      "title": "Education",
+      "firstSchool": {
+        "school": "CodeAcademy, Vilnius",
+        "year": "Jan 2020 - Aug 2020",
+        "degree": "Junior Frontend developer"
+      },
+      "secondSchool": {
+        "school": "University Of Applied Sciences",
+        "year": "Sep 2014 - Jun 2015",
+        "degree": "Technology of smart devices"
+      }
+    },
+    "personalSkills": {
+      "title": "Personal Skills",
+      "skills": [
+        "Teamwork",
+        "Communication",
+        "Problem-solving",
+        "Active listening",
+        "Empathy",
+        "Customer Service",
+        "Public Speaking"
+      ]
+    },
+    "technicalSkills": {
+      "title": "Technical Skills"
+    },
+   
+    "workExperience": {
+      "title": "Work experience",
+       "jobPosition4": {
+        "position": "Frontend developer",
+        "company": "ISKCON Lithuania",
+        "period": "Jan 2021 - present",
+        "about": "Building a single page app from scratch. Using React.js, redux, scss for a frontend and node.js + express and mongoDB for a backend"
+      },
+      "jobPosition1": {
+        "position": "ITSD analyst",
+        "company": "HCL technologies",
+        "period": "May 2019 - Feb 2021",
+        "about": "Deliver best customer service between Barclays bank employees by answering all their queries promptly; Troubleshoot technical issues and take ownership through to resolution; Identifying the key issues in daily situations and coming to the root cause of the problem; Fill and handle the incident tickets for every issue or querie and communicate with the other teams if issue can not be resolved immediately"
+      },
+      "jobPosition2": {
+        "position": "Director",
+        "company": "Vedic kindergarden \"Dvaraka\"",
+        "period": "Oct 2018 - Mar 2019",
+        "about": "Kindergarden establishment; document management; establishment of premises; communication with state institutions."
+      },
+      "jobPosition3": {
+        "position": "Small project manager",
+        "company": "Vedu Kulturos Univesitetas",
+        "period": "May 2015 - Oct 2018",
+        "about": "Maintenance of order; division of competencies; small project management; organization and reading of lectures; organization of the agenda"
+      }
+    },
+    "footer": {
+      "PersonalInfo": {
+        "title": "About me",
+        "dob": { "topic": "Date Of Birth:", "data": "23-10-1991" },
+        "nationality": { "topic": "Nationality:", "data": "Lithuanian" },
+        "gender": { "topic": "Gender:", "data": "Male" },
+        "maritalStatus": { "topic": "Marital Status:", "data": "Married" }
+      },
+      "contacts": {
+        "title": "Contacts",
+        "telephone": "+4792565411",
+        "email": "v.manzrimas@gmail.com"
+      },
+      "address": {
+        "title": "Address",
+        "street": "Maridalsveien 233A, 0467",
+        "town": "Oslo, Norway"
+      }
+    }
+  },
+
+  "lt": {
+    "header": {
+      "title": "Frontend programuotojas"
+    },
+    "links": "Nuorodos",
+    "aboutMe": {
+      "title": "Apie mane",
+      "content": "Sveiki, esu visada nusiteikęs mokytis ir tobulėti. Kelerius metus gyvenau vienuolyne kur laiką skyriau savęs pažinimui ir asmenybės ugdymui. Ten mokiausi savikontrolės, proto valdymo, projektų valdymo, taip pat skaičiau paskaitas savęs ugdymo temomis . Po kelis metus trunkančių savęs paieškų atradau save IT sferoje ir jau virš metų gilinuosi į ją. Šiuo metu dirbu IT aptarnavimo analitiku bei gilinuosi į \"Front-End\" programavimą."
+    },
+    "education": {
+      "title": "Išsilavinimas",
+      "firstSchool": {
+        "school": "CodeAcademy, Vilnius",
+        "year": "Sau 2020 - Rug 2020",
+        "degree": "Jaunesnysis Frontend programuotojas"
+      },
+      "secondSchool": {
+        "school": "Valstybnė Vilniaus kolegija",
+        "year": "Rug 2014 - Bir 2015",
+        "degree": "Išmaniųjų įrenginių technologijos"
+      }
+    },
+    "personalSkills": {
+      "title": "Asmeniniai įgūdžiai",
+      "skills": [
+        "Komandinis darbas",
+        "Komunikacijos",
+        "Problemų sprendimas",
+        "Aktyvus klausymąsis",
+        "Empatija",
+        "Klientų aptarnavimas",
+        "Viešasis kalbėjimas"
+      ]
+    },
+    "technicalSkills": {
+      "title": "Techniniai įgūdžiai"
+    },
+    "workExperience": {
+      "title": "Darbo patirtis",
+      "jobPosition4": {
+        "position": "Frontend programuotojas",
+        "company": "ISKCON Lietuva",
+        "period": "Sau 2021 - iki šiol",
+        "about": "Kuriu vieno puslapio aplikaciją nuo nulio. Naudoju React.js, redux ir scss frontendui ir node.js + express + mongoDB backendui."
+      },
+      "jobPosition1": {
+        "position": "ITSD analitikas",
+        "company": "HCL technologies",
+        "period": "Geg 2019 - Vas 2021",
+        "about": "Klientų aptarnavimas telefonu, atsakant į visus \"Barclays\" banko darbuotojų klausimus; techninių problemų šalinimas prisiimant atsakomybę už jas; Pagrindinių problemų nustatymas kasdienėse situacijose ir pagrindinės problemos priežasties nustatymas; techninių incidentų bilietų pildymas ir valdymas, bendravimas su kitomis komandomis jei problema negali būti išspresta iš karto. "
+      },
+      "jobPosition2": {
+        "position": "Direktorius",
+        "company": "Vedinis vaikų darželis \"Dvaraka\"",
+        "period": "Spa 2018 - Kov 2019",
+        "about": "Darželio įkūrimas; dokumentų tvarkymas; patalpų įkūrimas; bendravimas su valstybės įstaigomis."
+      },
+      "jobPosition3": {
+        "position": "Smulkiųjų projektų vadovas",
+        "company": "Vedų kultūros universitetas",
+        "period": "Geg 2015 - Spa 2018",
+        "about": "Tvarkos priežiūra; kompetencijų skirstymas; smulkių projektų vykdymas; paskaitų skaitymas ir organizavimas; dienotvarkės organizavimas. "
+      }
+    },
+    "footer": {
+      "PersonalInfo": {
+        "title": "Apie mane",
+        "dob": { "topic": "Gimimo data:", "data": "23-10-1991" },
+        "nationality": { "topic": "Tautybė:", "data": "Lietuvis" },
+        "gender": { "topic": "Lytis:", "data": "Vyras" },
+        "maritalStatus": { "topic": "Šeimyninė padėtis:", "data": "Vedęs" }
+      },
+      "contacts": {
+        "title": "Kontaktai",
+        "telephone": "+4792565411",
+        "email": "v.manzrimas@gmail.com"
+      },
+      "address": {
+        "title": "Adresas",
+        "street": "Maridalsveien 233A, 0467",
+        "town": "Oslas, Norvegija"
+      }
+    }
+  }
+}

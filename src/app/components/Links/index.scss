@@ -1,0 +1,16 @@
+.Links {
+  a {
+    color: lightgray;
+  }
+  img {
+    width: 18px;
+    height: 18px;
+    filter: invert(0) hue-rotate(346deg) brightness(100%) contrast(100%);
+  }
+
+  &:last-child {
+    img {
+      filter: invert(1) hue-rotate(346deg) brightness(100%) contrast(100%);
+    }
+  }
+}
